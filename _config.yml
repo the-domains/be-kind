@@ -6,9 +6,13 @@ color:
   saturation: 0.1636355360969901
   rhythmicContrast: 0.4432651177048683
   brandColors:
-    - '#B4AF91'
-    - '#787746'
-    - '#40411E'
-    - '#32331D'
-    - '#C03000'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: be kind
+navigation:
+  - name: About
+    id: 099cfecd-1ff4-4a68-aa44-4e2bce3d57d1
+    type: content
