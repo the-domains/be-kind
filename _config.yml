@@ -1,0 +1,14 @@
+layout_spectrum: 0.96032022126019
+typography_spectrum: 0.6600238415412605
+color:
+  brandStrength: 0.405335133895278
+  lightness: 0.36212512338534
+  saturation: 0.1636355360969901
+  rhythmicContrast: 0.4432651177048683
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: be kind
